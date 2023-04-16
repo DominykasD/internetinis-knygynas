@@ -1,10 +1,12 @@
-package com.example.internetinisknygynas;
+package com.example.internetinisknygynas.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
+
+import com.example.internetinisknygynas.R;
 
 public class MainActivity extends AppCompatActivity {
 

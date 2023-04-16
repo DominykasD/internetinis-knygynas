@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">internetinis knygynas</string>
     <string name="slapta_odis">Slaptažodis</string>
+    <string name="prisijungti">Prisijungti</string>
+    <string name="registruotis">Registruotis</string>
+    <string name="internetinis_knygynas">Internetinis knygynas</string>
+    <string name="pavard">Pavardė</string>
+    <string name="vardas">Vardas</string>
+    <string name="registracija">Registracija</string>
+    <string name="el_pa_tas">El. paštas</string>
+    <string name="jau_turite_paskyra">Jau turite paskyra?</string>
+    <string name="neturite_paskyros">Neturite paskyros?</string>
+    <string name="register_response_failure">Įvyko klaida, bandykite dar kartą</string>
+    <string name="register_response_success">Paskyra sukurta!</string>
+    <string name="register_response_error">Paskyra jau egzistuoja</string>
+    <string name="email_validation">Įveskite teisingą pašto adresą</string>
+    <string name="jau_turite_paskyr">Jau turite paskyrą?</string>
+    <string name="name_validation">Įveskite teisingą vardą</string>
+    <string name="field_validaton">Ne visi laukai užpildyti</string>
+    <string name="surname_validation">Įveskite teisingą pavardę</string>
+    <string name="password_validation">laptažodis turi turėti,\nbent 6 simbolius ir\n1 didžiają, mažają raidė ir skaičiu</string>
+    <string name="login_response_failure">Neteisingas įvestas paštas arba slaptažodis!</string>
+    <string name="login_fields">Ne visi laukai užpildyti</string>
 </resources>
