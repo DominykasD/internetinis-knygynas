@@ -12,12 +12,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.internetinisknygynas.BookListActivity;
 import com.example.internetinisknygynas.R;
 import com.example.internetinisknygynas.utils.LocalStorage;
 import com.google.android.material.navigation.NavigationView;
 
 public class MainMenuActivity extends AppCompatActivity {
     private LocalStorage localStorage;
+    private DrawerLayout drawerLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,7 +27,7 @@ public class MainMenuActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main_menu);
 
         ImageView profile = findViewById(R.id.imageView2);
-        DrawerLayout drawerLayout = findViewById(R.id.drawer_layout);
+        drawerLayout = findViewById(R.id.drawer_layout);
         localStorage = new LocalStorage(this);
         NavigationView navigationView = findViewById(R.id.navigation);
 
@@ -113,6 +115,14 @@ public class MainMenuActivity extends AppCompatActivity {
                 Toast.makeText(this, "Prisijunkite prie sistemos", Toast.LENGTH_SHORT).show();
             }
         }*/
+        if (item.getItemId() == R.id.item_books) {
+            if(localStorage.getCurrentUser() != null) {
+                drawerLayout.close();
+                startActivity(new Intent(this, BookListActivity.class));
+            } else {
+                Toast.makeText(this, "Prisijunkite prie sistemos", Toast.LENGTH_SHORT).show();
+            }
+        }
         if (item.getItemId() == R.id.item_logout) {
             localStorage.deleteCurrentUser();
 //            localStorage.deleteCart();

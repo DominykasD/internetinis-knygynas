@@ -20,7 +20,7 @@
         android:id="@+id/group2"
         android:checkableBehavior="single">
         <item
-            android:id="@+id/item_offers"
+            android:id="@+id/item_books"
             android:icon="@drawable/ic_baseline_menu_book_24_grey"
             android:title="Mokomoji literatūra" />
         <item
