@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_profile"
+            android:icon="@drawable/ic_baseline_account_circle_24_grey"
+            android:title="Duomenys" />
+        <item
+            android:id="@+id/item_orders"
+            android:icon="@drawable/ic_baseline_shopping_cart_24_grey"
+            android:title="Užsakymai" />
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_offers"
+            android:icon="@drawable/ic_baseline_menu_book_24_grey"
+            android:title="Mokomoji literatūra" />
+        <item
+            android:id="@+id/item_likes"
+            android:icon="@drawable/ic_baseline_favorite_24_grey"
+            android:title="Mano norai" />
+
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_logout"
+            android:icon="@drawable/ic_baseline_logout_24_grey"
+            android:title="Atsijungti" />
+
+    </group>
+
+
+</menu>

@@ -90,6 +90,7 @@ public class LoginActivity extends AppCompatActivity {
                 StringRequest stringRequest = new StringRequest(Request.Method.POST, URL, response -> {
                     if (!response.equals("failure")) {
                         try {
+                            System.out.println(response);
                             JSONObject jsonobject = new JSONObject(response);
                             JSONArray jsonArray = jsonobject.getJSONArray("user");
                             JSONObject data = jsonArray.getJSONObject(0);
@@ -129,6 +130,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
+        email.setText("admin@admin.com");
+        password.setText("Admin123!");
     }
-
 }
