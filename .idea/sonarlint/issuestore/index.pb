@@ -91,8 +91,6 @@ s
 Capp/src/main/java/com/example/internetinisknygynas/models/Book.java,8\7\871844debf38fa4f348bc3cd6733831077c5ba07
 É
 Sapp/src/main/java/com/example/internetinisknygynas/activities/MainMenuActivity.java,f\2\f2fa10fba134a3db3493fe1705b431751da1b2e8
-É
-Sapp/src/main/java/com/example/internetinisknygynas/activities/BookListActivity.java,1\6\16f44e68db9735f14ad603b583c63c9bd50559bf
 {
 Kapp/src/main/java/com/example/internetinisknygynas/adapters/NewAdapter.java,5\5\557779249deadccf141e9ede348a4ef4e6d49e90
 Å
