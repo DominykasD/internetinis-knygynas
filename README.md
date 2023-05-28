@@ -2,7 +2,7 @@
 Bachelor thesis project. An app designed to simplify online shopping for school literature using smart devices.
 Link to the app server: https://github.com/DominykasD/internetinis-knygynas-server
 
-## Features
+## Main features
 Book searching, filtering, sorting, adding books to favorites, adding books to cart, managing books in cart, filling in the cart order information, choosing the payment method, paying for books, viewing orders.
 
 ## Set up
