@@ -17,6 +17,6 @@ Steps for using the app next time and every other time:
    2) Run the app on Android Studio
 
 ### Links
-XAMPP: https://www.apachefriends.org/
-App (client side): https://github.com/DominykasD/internetinis-knygynas
-App (server side): https://github.com/DominykasD/internetinis-knygynas-server
+XAMPP: https://www.apachefriends.org/ <br>
+App (client side): https://github.com/DominykasD/internetinis-knygynas <br>
+App (server side): https://github.com/DominykasD/internetinis-knygynas-server <br>
