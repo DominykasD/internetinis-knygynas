@@ -25,9 +25,6 @@ A
 gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
 s
 Capp/src/main/java/com/example/internetinisknygynas/models/Cart.java,9\a\9aae1d87503502e3c11c0c7f2339dabfec9422f8
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 É
@@ -100,3 +97,8 @@ Sapp/src/main/java/com/example/internetinisknygynas/activities/BookListActivity.
 Kapp/src/main/java/com/example/internetinisknygynas/adapters/NewAdapter.java,5\5\557779249deadccf141e9ede348a4ef4e6d49e90
 Å
 Qapp/src/main/java/com/example/internetinisknygynas/adapters/BestRatedAdapter.java,2\4\246f66a20fb6727f0157cac6459516f524912698
+Ü
+Vapp/src/main/java/com/example/internetinisknygynas/activities/PaymentCardActivity.java,4\7\47e5c42736e530e7f02778894f7de67669baae12
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

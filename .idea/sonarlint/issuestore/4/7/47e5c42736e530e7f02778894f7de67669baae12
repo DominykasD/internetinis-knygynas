@@ -1,0 +1,16 @@
+
+c	java:S116+"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ²Õ¡
+7
+java:S1170+"!Make this final field static too.(ƒ²Õ¡
+t
+java:S1450*"^Remove the "paymentLauncher" field and declare it as a local variable in the relevant methods.(ò‚Úí
+P	java:S125S"<This block of commented-out lines of code should be removed.(²›Š
+Q	java:S125h"<This block of commented-out lines of code should be removed.(öÉŒ¤
+K
+java:S1874€"/Remove this use of "Handler"; it is deprecated.(’àÞ–úÿÿÿÿ
+:
+java:S2119á"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+S
+java:S1068)"=Remove this unused "paymentIntentClientSecret" private field.(ë‹Î¶
+I
+java:S1068*"3Remove this unused "paymentLauncher" private field.(ò‚Úí
