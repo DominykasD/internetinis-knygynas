@@ -1,6 +1,6 @@
-package com.example.internetinisknygynas;
+package com.example.internetinisknygynas.models;
 
-public class Book {
+public class Cart {
     private String id;
     private String title;
     private String category;
@@ -9,7 +9,7 @@ public class Book {
     private String price;
     private String image;
     private String available_quantity;
-    private String subTotal;
+    private double subTotal;
     private String publisher;
     private String rating;
     private String number_of_ratings;
@@ -19,6 +19,7 @@ public class Book {
     private String format;
     private String language;
     private String status;
+    private String quantity;
 
     public String getId() {
         return id;
@@ -84,11 +85,11 @@ public class Book {
         this.available_quantity = available_quantity;
     }
 
-    public String getSubTotal() {
+    public double getSubTotal() {
         return subTotal;
     }
 
-    public void setSubTotal(String subTotal) {
+    public void setSubTotal(double subTotal) {
         this.subTotal = subTotal;
     }
 
@@ -162,5 +163,13 @@ public class Book {
 
     public void setStatus(String status) {
         this.status = status;
+    }
+
+    public String getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(String quantity) {
+        this.quantity = quantity;
     }
 }

@@ -1,0 +1,8 @@
+
+v
+java:S1450"[Remove the "localStorage" field and declare it as a local variable in the relevant methods.(§Ί›Μϋÿÿÿÿ
+=	java:S108b")Either remove or fill this block of code.(ΧΝ¨,
+j	java:S116|"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚μόÿÿÿÿ
+k	java:S116|"QRename this field "Author" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚μόÿÿÿÿ
+^
+java:S1659|"CDeclare "Author" and all following declarations on a separate line.(…‚μόÿÿÿÿ

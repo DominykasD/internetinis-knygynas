@@ -23,4 +23,5 @@
     <color name="back_button">#636668</color>
     <color name="blue_buttons">#152D47</color>
     <color name="search_bar_grey">#e4e8e7</color>
+    <color  name="red">#A52A2A</color>
 </resources>

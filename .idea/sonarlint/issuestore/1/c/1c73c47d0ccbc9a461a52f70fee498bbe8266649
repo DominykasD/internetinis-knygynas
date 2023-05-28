@@ -1,0 +1,13 @@
+
+J
+java:S1066A"/Merge this if statement with the enclosing one.(µÇ¨·øÿÿÿÿ
+b	java:S116#"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‰æ!
+6
+java:S1170#"!Make this final field static too.(¢‰æ!
+m
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¨Œşÿÿÿÿ
+G
+java:S16020",Remove useless curly braces around statement(¿Şïıÿÿÿÿ
+G
+java:S16025",Remove useless curly braces around statement(öŸ¥ ùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ

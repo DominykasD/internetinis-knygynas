@@ -1,0 +1,10 @@
+
+t	java:S116"ZRename this field "URLUPDATEREVIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿκεψÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÿκεψÿÿÿÿ
+n
+java:S1450"SRemove the "date" field and declare it as a local variable in the relevant methods.(§σ®Ψύÿÿÿÿ
+z
+java:S1450 "_Remove the "simpleDateFormat" field and declare it as a local variable in the relevant methods.(¨Β²Χψÿÿÿÿ
+B
+java:S16023",Remove useless curly braces around statement(•Η‘τ

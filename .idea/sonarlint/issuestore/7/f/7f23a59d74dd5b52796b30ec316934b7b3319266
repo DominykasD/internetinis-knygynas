@@ -1,0 +1,9 @@
+
+}
+java:S1450"[Remove the "localStorage" field and declare it as a local variable in the relevant methods.(§º›Ìûÿÿÿÿ8µ•¦«€1
+d
+java:S1659H"GDeclare "bookAuthor" and all following declarations on a separate line.(¾á¨8Ñş¯ª€1
+R
+java:S1068"0Remove this unused "localStorage" private field.(§º›Ìûÿÿÿÿ8˜™óª€1
+L
+java:S1068 "*Remove this unused "orders" private field.(Öç–¶ÿÿÿÿÿ8˜™óª€1

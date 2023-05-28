@@ -1,0 +1,11 @@
+
+…
+java:S1488L"jImmediately return this expression instead of assigning it to the temporary variable "confirmationDialog".(Úµ Áüÿÿÿÿ
+o	java:S116%"ZRename this field "URLDELETEREVIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔóİÂ
+7
+java:S1170%"!Make this final field static too.(ÔóİÂ
+B
+java:S1602\",Remove useless curly braces around statement(Éä±Â
+C	java:S108e")Either remove or fill this block of code.(£¥ÿüÿÿÿÿ
+X
+java:S1659€"ADeclare "date" and all following declarations on a separate line.(¦³İç

@@ -20,6 +20,20 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
+        android:id="@+id/button13"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="123dp"
+        android:backgroundTint="@color/blue_buttons"
+        android:text="Jungtis be registracijos"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
         android:id="@+id/button2"
         android:layout_width="225dp"
         android:layout_height="wrap_content"

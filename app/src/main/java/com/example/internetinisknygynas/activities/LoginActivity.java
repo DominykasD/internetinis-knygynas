@@ -123,14 +123,12 @@ public class LoginActivity extends AppCompatActivity {
                         return data;
                     }
                 };
+
                 RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
                 requestQueue.add(stringRequest);
             } else {
                 Toast.makeText(this, getString(R.string.login_fields), Toast.LENGTH_SHORT).show();
             }
         });
-
-        email.setText("admin@admin.com");
-        password.setText("Admin123!");
     }
 }

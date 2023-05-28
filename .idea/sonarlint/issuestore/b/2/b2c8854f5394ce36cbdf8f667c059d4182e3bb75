@@ -1,0 +1,30 @@
+
+J
+java:S10668"/Merge this if statement with the enclosing one.(µÇ¨·øÿÿÿÿ
+>
+java:S16043"(Make this anonymous inner class a lambda(İØáÁ
+c	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú­‰š
+7
+java:S1170"!Make this final field static too.(ú­‰š
+m
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(¨Œşÿÿÿÿ
+G
+java:S1602(",Remove useless curly braces around statement(¿Şïıÿÿÿÿ
+G
+java:S1602-",Remove useless curly braces around statement(‚íêûÿÿÿÿ
+P
+java:S1854†"9Remove this useless assignment to local variable "chars".(‚¡Í¶
+A
+java:S1481†"*Remove this unused "chars" local variable.(‚¡Í¶
+U
+java:S1854"9Remove this useless assignment to local variable "chars".(«ş„ûÿÿÿÿ
+T
+java:S6353Œ"=Use concise character class syntax '\\D' instead of '[^0-9]'.(ùóª¾
+F
+java:S1481"*Remove this unused "chars" local variable.(«ş„ûÿÿÿÿ
+P
+java:S1854˜"9Remove this useless assignment to local variable "chars".(èõİÃ
+h
+java:S5998•"LRefactor this repetition that can lead to a stack overflow for large inputs.(ªÃ¿ûÿÿÿÿ
+A
+java:S1481˜"*Remove this unused "chars" local variable.(èõİÃ

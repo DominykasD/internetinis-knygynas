@@ -1,0 +1,37 @@
+
+~
+java:S1192€"[Define a constant instead of duplicating this literal "Prisijunkite prie sistemos" 4 times.(ÅñÅ×øÿÿÿÿ8à¨÷Ç…1
+k
+java:S1192Ñ"HDefine a constant instead of duplicating this literal "book_id" 4 times.(Ë±¹ôıÿÿÿÿ8à¨÷Ç…1
+k
+java:S1192Ò"HDefine a constant instead of duplicating this literal "user_id" 3 times.( ÙÛÊûÿÿÿÿ8à¨÷Ç…1
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´½Çúÿÿÿÿ8â¨÷Ç…1
+
+java:S1488´"\Immediately return this expression instead of assigning it to the temporary variable "data".(ÀâÖøÿÿÿÿ8ã¨÷Ç…1
+}	java:S116="\Rename this field "number_of_ratings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÜ³Êıÿÿÿÿ8æª÷Ç…1
+y
+java:S1450>"WRemove the "cartList" field and declare it as a local variable in the relevant methods.(¬‘‚ûÿÿÿÿ8îª÷Ç…1
+}
+java:S1450E"[Remove the "favoriteList" field and declare it as a local variable in the relevant methods.(¾óŸ¦úÿÿÿÿ8ïª÷Ç…1
+‚
+java:S14506"`Remove the "userRatedBookList" field and declare it as a local variable in the relevant methods.(Øâœìøÿÿÿÿ8ğª÷Ç…1
+t
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¨Œşÿÿÿÿ8ƒ«÷Ç…1
+O
+java:S1602Å",Remove useless curly braces around statement(šû©ıÿÿÿÿ8“«÷Ç…1
+O
+java:S1602Ê",Remove useless curly braces around statement(à•¼¿şÿÿÿÿ8•«÷Ç…1
+V
+java:S1117Û"8Rename "gson" which hides the field declared at line 63.(şëŒ8–«÷Ç…1
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(ÂÌ‰©8—«÷Ç…1
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(Á†ºô8˜«÷Ç…1
+O
+java:S1602ê",Remove useless curly braces around statement(Ó—ô´ûÿÿÿÿ8˜«÷Ç…1
+V
+java:S1117‹"8Rename "gson" which hides the field declared at line 63.(şëŒ8›«÷Ç…1
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ÏÙÅä8œ«÷Ç…1
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(¥­‡ş8 «÷Ç…1
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(¨ôì¡úÿÿÿÿ8£«÷Ç…1
+[	java:S106ù"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8¦«÷Ç…1
+p
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‘Ñ–Û8°«÷Ç…1

@@ -1,0 +1,13 @@
+
+n
+java:S1450 "SRemove the "gson" field and declare it as a local variable in the relevant methods.(°Öñ…øÿÿÿÿ
+v
+java:S1450"[Remove the "localStorage" field and declare it as a local variable in the relevant methods.(§º›Ìûÿÿÿÿ
+r
+java:S1450"WRemove the "subtotal" field and declare it as a local variable in the relevant methods.(®™ÀÄùÿÿÿÿ
+g
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚Â’.
+^
+java:S1659…"GDeclare "bookAuthor" and all following declarations on a separate line.(©ÅŽ 
+]
+java:S1659†"FDeclare "minusIcon" and all following declarations on a separate line.(ÏÞÔ¥

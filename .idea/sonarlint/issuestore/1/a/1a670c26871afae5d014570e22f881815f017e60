@@ -1,0 +1,13 @@
+
+n	java:S116!"TRename this field "URLREVIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‹øÕùÿÿÿÿ
+<
+java:S1170!"!Make this final field static too.( ‹øÕùÿÿÿÿ
+n
+java:S1450&"SRemove the "date" field and declare it as a local variable in the relevant methods.(§ó®Øýÿÿÿÿ
+s
+java:S1450$"^Remove the "editTextComment" field and declare it as a local variable in the relevant methods.(Þªú:
+s
+java:S1450#"XRemove the "ratingBar" field and declare it as a local variable in the relevant methods.(’•…Žøÿÿÿÿ
+z
+java:S1450'"_Remove the "simpleDateFormat" field and declare it as a local variable in the relevant methods.(¨Â²×øÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(öÅèÓûÿÿÿÿ

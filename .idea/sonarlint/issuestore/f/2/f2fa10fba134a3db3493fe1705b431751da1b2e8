@@ -1,0 +1,18 @@
+
+}
+java:S1192o"[Define a constant instead of duplicating this literal "Prisijunkite prie sistemos" 4 times.(ÅñÅ×øÿÿÿÿ8Ã»ÓÉ…1
+
+java:S1488ê"\Immediately return this expression instead of assigning it to the temporary variable "data".(ÀâÖøÿÿÿÿ8Ä»ÓÉ…1
+|	java:S1167"[Rename this field "URLGETRATEDBOOKS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¨ûÀúÿÿÿÿ8‘½ÓÉ…1
+j	java:S1168"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±—¾ø8‘½ÓÉ…1
+C
+java:S11707"!Make this final field static too.(·¨ûÀúÿÿÿÿ8—½ÓÉ…1
+>
+java:S11708"!Make this final field static too.(±—¾ø8—½ÓÉ…1
+`
+java:S1854L">Remove this useless assignment to local variable "sdkVersion".(“­ ÿÿÿÿÿ8«½ÓÉ…1
+Q
+java:S1481L"/Remove this unused "sdkVersion" local variable.(“­ ÿÿÿÿÿ8²½ÓÉ…1
+E	java:S108Z")Either remove or fill this block of code.(¨»é¤8¶½ÓÉ…1
+J
+java:S1602ˆ",Remove useless curly braces around statement(úøÑ8¿½ÓÉ…1
